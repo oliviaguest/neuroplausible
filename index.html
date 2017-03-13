@@ -1,0 +1,38 @@
+---
+layout: base
+---
+<section class="container">
+
+{% for post in site.posts %}
+       <article class="post">
+              <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+
+                  <div class ="date">
+                            {{ post.author}}, <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %e, %Y" }}</a> — <a href="{{ site.baseurl }}{{ post.url }}#comments" data-disqus-url="{{ site.url }}{{ post.url }}"></a> <a href="{{ site.baseurl }}{{ post.url }}#comments"><i class="fa fa-comments" aria-hidden="true"></i></a>
+
+                  </div>
+
+                  <div class="likely" data-url = "http://neuroplausible.com{{ post.url }}" data-title = "{{ post.title }}">
+                      <div class="facebook">Share</div>
+                      <div class="twitter" data-via = "{{ site.twitter }}">Tweet</div>
+                  </div>
+
+              <div class="entry">
+
+                     {% if post.img %}
+                     <div class="float-right figure">
+                       <object class="image" data="{{ site.baseurl}}{{ post.img }}.svg" type="image/svg+xml">
+                         <img src="{{ site.baseurl}}{{ post.img }}.png" />
+                       </object>
+                     </div>
+                     {% endif %}
+<!--                   {{ post.content  | truncatewords:75 }}  -->
+                     {{ post.excerpt }}
+              </div>
+              <div class= "entry-footer">
+                      <a href="{{ site.baseurl }}{{ post.url }}">Read More</a> — <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}">Leave a Comment</a>
+              </div>
+      </article>
+{% endfor %}
+</section>
