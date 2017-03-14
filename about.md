@@ -5,7 +5,7 @@ published: true
 title: About
 ---
 
-<div class="float-left figure">
+<div class="float-right figure">
     <img src="{{ site.baseurl }}/img/C3qqoANXUAAnxP_.jpg" />
 </div>
 
