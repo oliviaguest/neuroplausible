@@ -524,7 +524,7 @@ img {
 	margin-right: 1rem;
 }
 
-b {
+b, strong {
 	font-weight: 400;
 }
 

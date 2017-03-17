@@ -6,32 +6,37 @@
     <i class="fa fa-info-circle" aria-hidden="true"></i>
     <i>{{ include.tldr.info }}</i>
     <ul>
+      {% if include.tldr.repos %}
         <li><b><i>GitHub repositories:</i></b>
     {% for repo in include.tldr.repos %}
-            <a href="{{ site.github.owner_url }}/{{ repo }}">{{ repo }}</a>{% if forloop.last == false %}, {% else %}.{% endif %} 
+            <a href="{{ site.github.owner_url }}/{{ repo }}">{{ repo }}</a>{% if forloop.last == false %}, {% else %}.{% endif %}
     {% endfor %}
     </li>
+    {% endif %}
     <li>
-        <b><i>Journal article:</i></b><ul class = "articles">{% for article in articles %}
-    <li class="articles">
-    {{ article.authors }} ({{ article.year }}). 
-    {% if article.doi %}
-      <a href="//dx.doi.org/{{ article.doi }}">{{ article.title }}</a>.
-    {% elsif article.pdf %}
-      <a href="{{ article.pdf }}">{{ article.title }}</a>.
-    {% else %}
-      {{ article.title }}.
-    {% endif %}
-    {% if article.journal %}<i>{{ article.journal }}</i>. {% endif %}{% if article.doi %}doi: <a href="//dx.doi.org/{{ article.doi }}">{{ article.doi }}</a>. {% endif %}
-    {%if article.pdf %}
-    <a class="fa" href="{{ article.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-    {% endif %}
+      {% if include.tldr.pubs %}
 
+          <b><i>Journal article:</i></b><ul class = "articles">{% for article in articles %}
+          <li class="articles">
+          {{ article.authors }} ({{ article.year }}).
+          {% if article.doi %}
+            <a href="//dx.doi.org/{{ article.doi }}">{{ article.title }}</a>.
+          {% elsif article.pdf %}
+            <a href="{{ article.pdf }}">{{ article.title }}</a>.
+          {% else %}
+            {{ article.title }}.
+          {% endif %}
+          {% if article.journal %}<i>{{ article.journal }}</i>. {% endif %}{% if article.doi %}doi: <a href="//dx.doi.org/{{ article.doi }}">{{ article.doi }}</a>. {% endif %}
+          {% if article.pdf %}
+          <a class="fa" href="{{ article.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+          {% endif %}
+          {% endfor %}
+          {% endif %}
 
-    
     </li>
-  {% endfor %}</ul>
+
+  </ul>
         </li>
-        
+
     </ul>
 </div>

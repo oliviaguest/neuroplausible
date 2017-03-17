@@ -4,7 +4,7 @@ published: true
 title: Artificial Neural Networks with Random Weights are Baseline Models
 tldr:
   repos: [random-network, brain-imaging-and-the-neural-code]
-  articles: [guest_love_2017]
+  pubs: [guest_love_2017]
   info: Running untrained networks with random weights allows us to understand such models before training.
 
 img: /img/posts/ann_models_correlation
