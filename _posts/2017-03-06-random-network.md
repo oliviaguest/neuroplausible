@@ -7,7 +7,9 @@ tldr:
   pubs: [guest_love_2017]
   info: Running untrained networks with random weights allows us to understand such models before training.
 
-img: /img/posts/ann_models_correlation
+img:
+  svg: true
+  dir: /img/posts/ann_models_correlation
 permalink: random-network
 author: Olivia Guest
 
@@ -21,7 +23,7 @@ To the extent that random networks show interesting behaviors, we can infer that
 At the same time, examining these random networks allows us to evaluate what learning does add to the network's abilities over and above minimising some loss function.
 
 <div class="float-right figure">
-  <object class="image" data="{{ site.baseurl}}{{ page.img }}.svg" type="image/svg+xml">
+  <object class="image" data="{{ site.baseurl}}{{ page.img.dir }}.svg" type="image/svg+xml">
     <img src="{{ site.baseurl}}{{ page.img }}.png" />
   </object>
   <div class="figure-caption">

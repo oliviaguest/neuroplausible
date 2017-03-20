@@ -20,12 +20,19 @@ layout: base
 
               <div class="entry">
 
-                     {% if post.img %}
+                     {% if post.img.dir %}
+                     {% if post.img.svg %}
                      <div class="float-right figure">
-                       <object class="image" data="{{ site.baseurl}}{{ post.img }}.svg" type="image/svg+xml">
-                         <img src="{{ site.baseurl}}{{ post.img }}.png" />
+                       <object class="image" data="{{ site.baseurl}}{{ post.img.dir }}.svg" type="image/svg+xml">
+                         <img src="{{ site.baseurl}}{{ post.img.dir }}.png" />
                        </object>
                      </div>
+                     {% else %}
+                     <div class="float-right figure">
+                         <img class="image" src="{{ site.baseurl}}{{ post.img.dir }}" />
+                       </object>
+                     </div>
+                     {% endif %}
                      {% endif %}
 <!--                   {{ post.content  | truncatewords:75 }}  -->
                      {{ post.excerpt }}
