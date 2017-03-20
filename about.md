@@ -11,7 +11,7 @@ title: About
 
 Hi, I am [Olivia Guest](http://oliviaguest.com). I am a cognitive computational neuroscientist and this blog is about my research.
 To learn more about me and my work, visit [my website](http://oliviaguest.com), [follow me](http://twitter.com/o_guest) on Twitter, and/or [fork me](http://github.com/oliviaguest) on GitHub.
-I post blog updates on the [Facebook page](http://facebook.com/neuroplausible), my [twitter account](http://twitter.com/o_guest) and on the [RSS feed](http://neuroplausible.com/feed.xml).
+I post blog updates on the [Facebook page](http://facebook.com/neuroplausible), my [twitter account](http://twitter.com/o_guest), and on the [RSS feed](http://neuroplausible.com/feed.xml).
 
 
 With respect to the name of this website, *neuroplausible*, it is a [weasel word](https://en.wikipedia.org/wiki/Weasel_word) — a word used to imply or convey a seemingly specific meaning yet on closer inspection is vague or even misleading.
