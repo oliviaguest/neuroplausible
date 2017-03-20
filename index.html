@@ -9,7 +9,15 @@ layout: base
 
 
                   <div class ="date">
-                            {{ post.author}}, <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %e, %Y" }}</a> — <a href="{{ site.baseurl }}{{ post.url }}#comments" data-disqus-url="{{ site.url }}{{ post.url }}"></a> <a href="{{ site.baseurl }}{{ post.url }}#comments"><i class="fa fa-comments" aria-hidden="true"></i></a>
+
+<a href="{{ site.baseurl }}/about"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+<a href="{{ site.baseurl }}/about">{{ post.author}}</a>,
+
+<a href="{{ site.baseurl }}{{ post.url }}"><i class="fa fa-calendar" aria-hidden="true"></i></a>
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %e, %Y" }}</a>,
+
+<a href="{{ site.baseurl }}{{ post.url }}#comments"><i class="fa fa-comments-o" aria-hidden="true"></i></a>
+<a href="{{ site.baseurl }}{{ post.url }}#comments" data-disqus-url="{{ site.url }}{{ post.url }}"></a>
 
                   </div>
 

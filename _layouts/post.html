@@ -1,21 +1,24 @@
 ---
-layout: base 
+layout: base
 ---
 <section class="container">
   <article class="post">
     <a href="{{ page.url }}"><h1>{{ page.title }}</h1></a>
             <div class ="date">
-            {{ page.author}}, <a href="{{ site.baseurl }}{{ page.url }}">{{ page.date | date: "%B %e, %Y" }}</a> 
+              <a href="{{ site.baseurl }}/about"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+              <a href="{{ site.baseurl }}/about">{{ page.author}}</a>,
 
-              
-              — <a href="{{ site.baseurl }}{{ page.url }}#comments" data-disqus-url="{{ site.url }}{{ page.url }}"></a> <a href="{{ site.baseurl }}{{ page.url }}#comments"><i class="fa fa-comments" aria-hidden="true"></i></a>    
-<!--              <a class=".tldr-link" href="{{ site.baseurl }}{{ page.url }}#tldr"><i class="fa fa-info-circle" aria-hidden="true"></i></a>     -->
-            </div>  
+              <a href="{{ site.baseurl }}{{ page.url }}"><i class="fa fa-calendar" aria-hidden="true"></i></a>
+              <a href="{{ site.baseurl }}{{ page.url }}">{{ page.date | date: "%B %e, %Y" }}</a>,
+
+              <a href="{{ site.baseurl }}{{ page.url }}#comments"><i class="fa fa-comments-o" aria-hidden="true"></i></a>
+              <a href="{{ site.baseurl }}{{ page.url }}#comments" data-disqus-url="{{ site.url }}{{ page.url }}"></a>
+            </div>
                 {% include social.html %}
                 {% include tldr.html tldr = page.tldr %}
 
     <div class="entry">
-      {{ content }}  
+      {{ content }}
     </div>
 
 
