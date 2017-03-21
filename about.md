@@ -19,6 +19,6 @@ This is not to say the word has no value, however its usage often falls into typ
 I post blog updates on the [Facebook page](http://facebook.com/neuroplausible), my [twitter account](http://twitter.com/o_guest), and on the [RSS feed](http://neuroplausible.com/feed.xml).
 An archive of all blog posts so far can be found [here](http://neuroplausible.com/archive).
 
-I designed this website myself from scratch in [Jekyll](https://jekyllrb.com/), [Liquid](https://shopify.github.io/liquid/), HTML, and CSS (specifically [miligram](https://milligram.github.io/)) — see the source code [here](http://github.com/oliviaguest/neuroplasuble).
+I designed this website myself from scratch in [Jekyll](https://jekyllrb.com/), [Liquid](https://shopify.github.io/liquid/), HTML, and CSS (specifically [milligram](https://milligram.github.io/)) — see the source code [here](http://github.com/oliviaguest/neuroplasuble).
 <div class="clearfix">
 </div>
