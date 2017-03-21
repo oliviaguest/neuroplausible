@@ -17,5 +17,6 @@ With respect to the name of this website, *neuroplausible*, it is a [weasel word
 This is not to say the word has no value, however its usage often falls into typical weasel word territory.
 
 I post blog updates on the [Facebook page](http://facebook.com/neuroplausible), my [twitter account](http://twitter.com/o_guest), and on the [RSS feed](http://neuroplausible.com/feed.xml).
+An archive of all blog posts so far can be found [here](http://neuroplausible.com/archive).
 <div class="clearfix">
 </div>
