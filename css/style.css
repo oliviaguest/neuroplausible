@@ -538,11 +538,11 @@ a {
 	transition:.5s;
 }
 
-.container p a, .tldr a, .figure-caption a {
+.container p a, .tldr a, .figure-caption a, .list a {
     border-bottom: 1px dotted #000;
 }
 
-.container p a:hover, .tldr a:hover, .figure-caption a:hover {
+.container p a:hover, .tldr a:hover, .figure-caption a:hover, .list a:hover {
     border-bottom: 1px solid #000;
 }
 .entry-footer, .date {
