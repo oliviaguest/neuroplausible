@@ -869,3 +869,8 @@ li.articles:first-child {
       padding-left: 1rem;
   }
 }
+
+li.list {
+    list-style-type: square;
+    padding-left: 4rem;
+}
