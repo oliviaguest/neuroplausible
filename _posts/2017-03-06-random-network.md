@@ -24,7 +24,7 @@ At the same time, examining these random networks allows us to evaluate what lea
 
 <div class="float-right figure">
   <object class="image" data="{{ site.baseurl}}{{ page.img.dir }}.svg" type="image/svg+xml">
-    <img src="{{ site.baseurl}}{{ page.img }}.png" />
+    <img src="{{ site.baseurl}}{{ page.img.dir }}.png" />
   </object>
   <div class="figure-caption">
     <a href="https://elifesciences.org/content/6/e21397#fig2">Figure 2A</a> from Guest and Love (2017): "For the artificial neural network coding schemes, similarity to the prototype falls off with increasing distortion (i.e., noise). The models, numbered 1–11, are (<i>1</i>) vector space coding, (<i>2</i>) gain control coding, (<i>3</i>) matrix multiplication coding, (<i>4</i>), perceptron coding, (<i>5</i>) 2-layer network, (<i>6</i>) 3-layer network, (<i>7</i>) 4-layer network, (<i>8</i>) 5-layer network, (<i>9</i>) 6-layer network (<i>10</i>) 7-layer network, and (<i>11</i>), 8-layer network. The darker a model is, the simpler the model is and the more the model preserves similarity structure under fMRI."
