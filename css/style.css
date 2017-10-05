@@ -874,3 +874,7 @@ li.list {
     list-style-type: square;
     padding-left: 4rem;
 }
+
+ul {
+    list-style-type: square;
+}
