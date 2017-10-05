@@ -545,6 +545,16 @@ a {
 .container p a:hover, .tldr a:hover, .figure-caption a:hover, .list a:hover, .container li a:hover {
     border-bottom: 1px solid #000;
 }
+
+.container .footer-icons li a {
+    border-bottom: 0;
+}
+
+.container .footer-icons li a:hover {
+    border-bottom:0;
+}
+
+
 .entry-footer, .date {
     font-size: 1.5rem;
     color: #000;
