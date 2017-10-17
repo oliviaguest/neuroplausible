@@ -888,3 +888,7 @@ li.list {
 ul {
     list-style-type: square;
 }
+
+a.navigation-link {
+    border: 0 !important;
+}
