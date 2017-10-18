@@ -69,9 +69,11 @@ img {
     padding-bottom: 0;
     padding-top: 2rem;
     color: #000;
-    border-top: 0.1rem dotted #000;
 }
 
+.footer {
+    border-top: 0.1rem dotted #000;
+}
 
 /* Header
 // –––––––––––––––––––––––––––––––––––––––––––––––––– */
