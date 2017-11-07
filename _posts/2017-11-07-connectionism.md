@@ -56,9 +56,6 @@ To clarify, I do not teach this course any more and I will not be updating or us
 - Slides: [Part 5: Writing the Report](https://github.com/oliviaguest/connectionism/raw/master/week4/slides/part_5_slides.pdf)
 - Exercises: [File Input/Output](https://github.com/oliviaguest/connectionism/raw/master/week4/exercises/exercises.pdf)
 
-## Reading Materials
-- [Essay: A Brief Introduction to Connectionism](http://kimplunkett.org.uk/secondtry/page31/page32/index.html)
-
 ## Programming
 ### Exercises
 - [Codecademy](www.codecademy.com)
