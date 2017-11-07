@@ -18,7 +18,7 @@ This is less of a blog post and more of a materials dump from an elective practi
 
 This elective practical taught second year undergraduates to program in Python at a basic level and to understand the basics of artificial neural networks. They proved highly suitable as my students had not done much/any programming before and had not really heard of neural networks (things might have changed now, hype, etc).
 
-To clarify, I do not teach this course any more and I will not be updating or using these materials. If you want to use them for your own teaching, they are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and I would super appreciate an <a href="mailto:o.guest@ucl.ac.uk">email</a> or <tweet if you use them.
+To clarify, I do not teach this course any more and I will not be updating or using these materials. If you want to use them for your own teaching, they are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and I would super appreciate an <a href="mailto:o.guest@ucl.ac.uk">email</a> or <a href="https://twitter.com/o_guest">tweet</a> if you use them.
 
 <div class="float-right figure">
   <object class="image" data="{{ site.baseurl}}{{ page.img.dir }}.svg" type="image/svg+xml">
