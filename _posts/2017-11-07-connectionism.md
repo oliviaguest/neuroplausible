@@ -4,7 +4,7 @@ published: true
 title: "Block Practical: Connectionist Models and Cognitive Processes"
 tldr:
   repos: connectionism
-  info: These are the course materials I used to teach basic programming in Python and connectionism in the Experimental Psychology Department at the University of Oxford about 3 years ago.
+  info: These are the course materials I used to teach basic programming in Python and connectionism in the Experimental Psychology Department at the University of Oxford about three years ago.
 
 img:
   svg: true
