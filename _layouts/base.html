@@ -12,7 +12,7 @@ under the GNU General Public License version 3
 (GPLv3) and written by Olivia Guest.
 More information here: http://neuroplausible.com/licence
 
-Feel free to contact me on the repo: 
+Feel free to contact me on the repo:
 https://github.com/oliviaguest/neuroplausible
 if you need help with anything! :)
 
@@ -46,6 +46,8 @@ Olivia
 			<meta name="twitter:description" content="{{ page.content | strip_html}}">
 			<meta property="og:description" content="{{ page.content | strip_html }}">
 			<meta property="og:title" content="{{ site.name }}: {{ page.title }}">
+			<meta property="og:image" content="{{ site.url }}{{ page.img.dir }}" />
+
 			<title>{{ site.name }}: {{ page.title }}</title>
 
 		{% endif %}
@@ -58,8 +60,16 @@ Olivia
 		<meta name="twitter:domain" content="{{site.url}}">
 		<meta name="twitter:url" content="{{ page.url }}">
 		<meta name="twitter:site" content="{{site.url}}">
-		<meta name="twitter:creator" content="{{ site.name }}">
-		<link rel="canonical" href="{{page.url}}">
+		<link rel="canonical" href="{{ page.url }}">
+
+
+		  <meta name="twitter:card" content="summary" />
+		  <meta name="twitter:site" content="@{{ site.twitter}} " />
+		  <meta name="twitter:creator" content="@{{ site.twitter}} " />
+		  <meta property="article:author" content="{{site.name}}">
+			<meta property="article:publisher" content="{{site.name}}">
+
+
 <!-- 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic"> -->
 <!-- 		<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css"> -->
 		<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i" rel="stylesheet">
