@@ -43,7 +43,8 @@ layout: base
                      {% endif %}
                      {% endif %}
 <!--                   {{ post.content  | truncatewords:75 }}  -->
-                     {{ post.excerpt }}
+                     {{ post.excerpt | strip_html }}
+
               </div>
               <div class= "entry-footer">
                       <a href="{{ site.baseurl }}{{ post.url }}">Read More</a> &nbsp; <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}">Leave a Comment</a>
