@@ -30,8 +30,6 @@ To clarify, I do not teach this course any more and I will not be updating or us
 </div>
 
 
-
-
 ## Course Materials
 ### 1st Week: Introduction to Programming and Connectionist Networks
 - Code: [pyceptron.py](https://github.com/oliviaguest/connectionism/raw/master/week1/pyceptron.py)
@@ -87,6 +85,9 @@ To clarify, I do not teach this course any more and I will not be updating or us
 - [Machine Learning](https://www.coursera.org/learn/machine-learning/), by Andrew Ng
 - [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets), by Geoffrey Hinton
 - [Introduction to Neural Networks](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/index.htm), by Sebastian Seung
+
+## Papers
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 
 ## How to install Python
 ### Windows Users
