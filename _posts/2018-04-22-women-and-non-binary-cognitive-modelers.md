@@ -22,3 +22,5 @@ The other day — thanks to <a href="https://sites.temple.edu/newcombe/">Nora Ne
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A couple of people have asked, but sadly I am loathe to create a more formal list based on this tweet because the majority of these names have been volunteered instead of the modellers coming forward themselves, explicitly consenting to being added. Google and search engines generally love a website (outside Twitter) with a list of names and links but have significantly less love for a Twitter thread. So thankfully if you have been volunteered on that Twitter thread and you would rather not have been (for whatever reason) it is very unlikely search engines will notice. However, I would still like to keep an easier to find link (this page) to this tweet in case anybody else finds this as useful as I do and until an opt-in list is be created as a better way to keep track of women and non-binary people who do modelling.
+
+Finally, thank you everybody for all the names!
