@@ -20,9 +20,13 @@ author: Olivia Guest
 
 The other day — thanks to <a href="https://sites.temple.edu/newcombe/">Nora Newcombe</a> for making me think of this by asking about a related topic — I decided my Twitter account was probably a good place to ask the scientific community for the names of women and non-binary people in cognitive modelling. To my pleasant surprise, the tweet (below and <a href = "https://twitter.com/o_guest/status/987013239618883585?tfw_creator=o_guest%20&tfw_site=o_guest%20&ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Flocalhost%3A4000%2Fwomen-nb-cog-modellers">here</a>) managed to generate a larger amount of names in the replies than I alone could ever:
 
+<center>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey, science tweeps! 🧠<br><br>I want names of women &amp; non-binary cognitive modellers.<br><br>👨🏿‍💻👩🏻‍💻👩🏼‍💻👨🏽‍💻👩🏾‍💻👩🏿‍💻👨🏼‍💻👩🏽‍💻👨🏾‍💻<br><br>Tag them here or if they aren&#39;t on twitter post a link to academic websites. Pls RT so we&#39;ve a good chance of finding many! ☺️</p>&mdash; Olivia Guest (@o_guest) <a href="https://twitter.com/o_guest/status/987013239618883585?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
-Hopefully, a website (dedicated to the list and joining it based off the spreadsheet) will be forthcoming — but I sadly cannot promise anything. Until then, please use the <a href="https://twitter.com/o_guest/status/987013239618883585">tweet</a> (way more names at the present, so if you are looking for names, go there) and the <a href="https://docs.google.com/spreadsheets/d/1HWcovuA4JWY6nZb6gEF2f-dbLR1__-99qjbg9Y0g3CY/edit?usp=sharing">spreadsheet</a> (if you want to add names, go there).
+Hopefully, a website (dedicated to the list and joining it based off the spreadsheet) will be forthcoming — but I sadly cannot promise anything. Until then, please use the <a href="https://twitter.com/o_guest/status/987013239618883585">tweet</a> (way more names at the present, so if you are looking for names, go there) and the <a href="https://docs.google.com/spreadsheets/d/1HWcovuA4JWY6nZb6gEF2f-dbLR1__-99qjbg9Y0g3CY/edit?usp=sharing">spreadsheet</a> (if you want to add names, go there, also below).
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyZu0K52kqOT8mpJYytfemsQJotuR1zChrDl6GBXHNyDSkXFFkbAGDJOlTrsOVlwiXwac0BP1AhmFL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Finally, thank you everybody for all the names and support!
