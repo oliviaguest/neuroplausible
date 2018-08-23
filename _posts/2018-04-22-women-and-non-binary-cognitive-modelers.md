@@ -23,10 +23,6 @@ The other day — thanks to <a href="https://sites.temple.edu/newcombe/">Nora Ne
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-Hopefully, a website (dedicated to the list and joining it based off the spreadsheet) will be forthcoming — but I sadly cannot promise anything. Until then, please use the <a href="https://twitter.com/o_guest/status/987013239618883585">tweet</a> (way more names at the present, so if you are looking for names, go there) and the <a href="https://docs.google.com/spreadsheets/d/1HWcovuA4JWY6nZb6gEF2f-dbLR1__-99qjbg9Y0g3CY/edit?usp=sharing">spreadsheet</a> (if you want to add names, go there, also below):
-
-<center>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyZu0K52kqOT8mpJYytfemsQJotuR1zChrDl6GBXHNyDSkXFFkbAGDJOlTrsOVlwiXwac0BP1AhmFL/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;range=A1:H30&amp;chrome=false" style="width:100%;height:500px"></iframe>
-</center>
+The dedicated website is: [compcog.science](http://compcog.science)!
 
 Finally, thank you everybody for all the names and support!
