@@ -14,11 +14,11 @@ author: Olivia Guest
 
 ---
 
-This is less of a blog post and more of a materials dump from an elective practical I taught about three years ago to second year undergraduate students in the Experimental Psychology Department at the University of Oxford. I thoughtlessly deleted the webpage that contained them, assuming no student after 2 years would need them. How wrong I was! I received an email the other day from a Ph.D. student at a university on the other side of the world pretty much asking where these materials had disappeared to. This made me question my assumption nobody was looking at these materials. So to save myself and others from looking for them again, here they are for everybody.
+This is less of a blog post and more of a materials dump from an elective practical I taught to second year undergraduate students in the Experimental Psychology Department at the University of Oxford. I thoughtlessly deleted the webpage that contained them, assuming no student after 2 years would need them. How wrong I was! I received an email the other day from a Ph.D. student at a university on the other side of the world pretty much asking where these materials had disappeared to. This made me question my assumption nobody was looking at these materials. So to save myself and others from looking for them again, here they are for everybody.
 
 This elective practical taught second year undergraduates to program in Python at a basic level and to understand the basics of artificial neural networks. They proved highly suitable as my students had not done much/any programming before and had not really heard of neural networks (things might have changed now, hype, etc).
 
-To clarify, I do not teach this course any more and I will not be updating or using these materials. If you want to use them for your own teaching, they are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and I would super appreciate an <a href="mailto:o.guest@ucl.ac.uk">email</a> or <tweet if you use them.
+To clarify, I do not teach this course any more and I will not be updating or using these materials. If you want to use them for your own teaching, they are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and I would super appreciate an <a href="mailto:o.guest@ucl.ac.uk">email</a> or <a href="https://twitter.com/o_guest">tweet me</a> if you use them.
 
 <div class="float-right figure">
   <object class="image" data="{{ site.baseurl}}{{ page.img.dir }}.svg" type="image/svg+xml">
@@ -57,6 +57,7 @@ To clarify, I do not teach this course any more and I will not be updating or us
 - Exercises: [File Input/Output](https://github.com/oliviaguest/connectionism/raw/master/week4/exercises/exercises.pdf)
 
 ## Reading Materials
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 - [Essay: A Brief Introduction to Connectionism](http://kimplunkett.org.uk/secondtry/page31/page32/index.html)
 
 ## Programming
