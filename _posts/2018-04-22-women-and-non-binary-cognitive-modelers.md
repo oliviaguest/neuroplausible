@@ -23,6 +23,4 @@ The other day — thanks to <a href="https://sites.temple.edu/newcombe/">Nora Ne
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-The dedicated website is: [compcog.science](http://compcog.science) — and all minorities in cognitive modelling are welcome!
-
-Finally, thank you everybody for all the names and support!
+<b>The dedicated website is: [compcog.science](http://compcog.science) — and all minorities in cognitive modelling are welcome!</b> Finally, thank you everybody for all the names and support!
