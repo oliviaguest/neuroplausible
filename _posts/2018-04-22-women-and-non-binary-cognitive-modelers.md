@@ -4,7 +4,7 @@ title: Minority Cognitive Modellers
 tldr:
   repos:
   pubs:
-  info: A community-sourced list of women and non-binary cognitive modellers.
+  info: A community-sourced list of women and non-binary cognitive modellers: <a href="http://compcog.science">compcog.science</a>!
 
 img:
   svg:
