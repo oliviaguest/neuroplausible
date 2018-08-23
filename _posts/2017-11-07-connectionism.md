@@ -18,7 +18,7 @@ This is less of a blog post and more of a materials dump from an elective practi
 
 This elective practical taught second year undergraduates to program in Python at a basic level and to understand the basics of artificial neural networks. They proved highly suitable as my students had not done much/any programming before and had not really heard of neural networks (things might have changed now, hype, etc).
 
-To clarify, I do not teach this course any more and I will not be updating or using these materials. If you want to use them for your own teaching, they are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and I would super appreciate an <a href="mailto:o.guest@ucl.ac.uk">email</a> or <a href="https://twitter.com/o_guest">tweet</a> if you use them.
+To clarify, I do not teach this course any more and I will not be updating or using these materials. If you want to use them for your own teaching, they are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and I would super appreciate an <a href="mailto:o.guest@ucl.ac.uk">email</a> or <tweet if you use them.
 
 <div class="float-right figure">
   <object class="image" data="{{ site.baseurl}}{{ page.img.dir }}.svg" type="image/svg+xml">
@@ -28,6 +28,8 @@ To clarify, I do not teach this course any more and I will not be updating or us
     A really basic neural network diagram, by Wikipedia user <a href="https://commons.wikimedia.org/wiki/File:Colored_neural_network.svg">Glosser.ca</a>
   </div>  
 </div>
+
+
 
 
 ## Course Materials
@@ -46,13 +48,16 @@ To clarify, I do not teach this course any more and I will not be updating or us
 - Patterns: [tyler_patterns.csv](https://github.com/oliviaguest/connectionism/raw/master/week3/tyler_patterns.csv)
 - Slides: [Part 4: Replicating a Model](https://github.com/oliviaguest/connectionism/raw/master/week3/slides/part_4_slides.pdf)
 - Exercises: [Replication of Tyler et al. (2000)](https://github.com/oliviaguest/connectionism/raw/master/week3/exercises/exercises.pdf)
-- Tyler, L. K., Moss, H. E., Durrant-Peatfield, M. R., & Levy, J. P. (2000). [Conceptual structure and the structure of concepts: A distributed account of category-specific deficits](https://github.com/oliviaguest/connectionism/raw/master/week3/tyler_2000.pdf). *Brain and Language*, 75(2), 195-231.
+- Tyler, L. K., Moss, H. E., Durrant-Peatfield, M. R., & Levy, J. P. (2000). **[Conceptual structure and the structure of concepts: A distributed account of category-specific deficits](https://github.com/oliviaguest/connectionism/raw/master/week3/tyler_2000.pdf)**. *Brain and Language*, 75(2), 195-231.
 
 ### 4th Week: Writing up Experimental Results
 - Code: [network.py](https://github.com/oliviaguest/connectionism/raw/master/week4/network.py), [graph.py](https://github.com/oliviaguest/connectionism/raw/master/week4/graph.py)
 - Example file for errors: [errors1000.txt](https://github.com/oliviaguest/connectionism/raw/master/week4/errors1000.txt)
 - Slides: [Part 5: Writing the Report](https://github.com/oliviaguest/connectionism/raw/master/week4/slides/part_5_slides.pdf)
 - Exercises: [File Input/Output](https://github.com/oliviaguest/connectionism/raw/master/week4/exercises/exercises.pdf)
+
+## Reading Materials
+- [Essay: A Brief Introduction to Connectionism](http://kimplunkett.org.uk/secondtry/page31/page32/index.html)
 
 ## Programming
 ### Exercises
@@ -85,9 +90,6 @@ To clarify, I do not teach this course any more and I will not be updating or us
 - [Machine Learning](https://www.coursera.org/learn/machine-learning/), by Andrew Ng
 - [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets), by Geoffrey Hinton
 - [Introduction to Neural Networks](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-641j-introduction-to-neural-networks-spring-2005/index.htm), by Sebastian Seung
-
-## Papers
-- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528v2)
 
 ## How to install Python
 ### Windows Users
