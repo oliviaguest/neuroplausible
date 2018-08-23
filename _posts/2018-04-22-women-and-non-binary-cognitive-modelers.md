@@ -9,7 +9,7 @@ tldr:
 img:
   svg:
   dir:
-permalink: women-nb-cog-modellers
+permalink: compcog
 
 author: Olivia Guest
 ---
