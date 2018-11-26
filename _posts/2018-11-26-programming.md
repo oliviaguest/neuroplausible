@@ -13,7 +13,7 @@ permalink: programming
 author: Olivia Guest
 ---
 
-About two months ago my brother, who works in a data science on social psychology data, asked me why his colleagues, who are women and have PhDs in psychology, cannot code and why they use SPSS. He was obviously just venting because when I replied he was surprised. I told him that it was because of sexism and because of lack of proper skills-training (both for statistics and coding) in many psychology departments. That got me thinking about this more...
+About two months ago my brother, who works in data science on social psychology data, asked me why his colleagues, who are women and have PhDs in psychology, cannot code and why they use SPSS. He was obviously just venting because when I replied he was surprised. I told him that it was because of sexism and because of lack of proper skills-training (both for statistics and coding) in many psychology departments. That got me thinking about this more...
 
 <div class="float-right figure">
   <img class="image" src="{{ site.baseurl}}{{ page.img.dir }}" />
