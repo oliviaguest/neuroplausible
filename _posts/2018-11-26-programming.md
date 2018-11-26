@@ -62,14 +62,14 @@ Thirdly, there is a specific issue with the BPS in the UK. It makes it hard for 
 
 So why do these gatekeepers, people who have the power (even if just 1% more than myself) to change undergraduate and graduate teaching, say "no to coding"? Why do they think the students in psychology just can't cope? In my opinion, there is an aspect of sexism at play. As I mentioned above the idea that women ([recall undergrads in psych are basically all young women](https://www.apa.org/monitor/2017/07-08/women-psychology.aspx)) can't code is deeply embedded in culture and in people's minds. But I would like to put aside whatever inherent biases they are holding onto and address the explicit reasons stated. I will paraphrase the various arguments I have heard, over the years as well as in the [monster Twitter thread](https://twitter.com/djnavarro/status/1066237296247074818), below and provide reasons why they are not appropriate.
 
+>**People choose psych as an easy undergrad, adding in coding makes it hard, ergo we will lose students.**
+
 <div class="float-right figure">
     <img class="image" src="{{ site.baseurl}}/img/posts/danielle_book.png" />
   <div class="figure-caption">
     "Back in the grimdark pre-Snapchat era of humanity (i.e. early 2011), I started teaching an introductory statistics class for psychology students offered at the University of Adelaide, using the R statistical package as the primary tool. I wrote my own lecture notes for the class, which have now expanded to the point of effectively being a book." — <a href="http://compcogscisydney.org/learning-statistics-with-r/">Danielle Navarro</a>.
   </div>  
 </div>
-
->**People choose psych as an easy undergrad, adding in coding makes it hard, ergo we will lose students.**
 
 This kind of claim is a little strange because the same goes for stats. In fact I would argue stats is harder but that is my bias given I did an undergrad in compsci and had no stats training till I was pulled through stats against my will by my cognitive science MSc. I feel like "against my will" is true for a lot of things I eventually ended up liking, and that seems to be the case with people in general who responded to that thread, like [the undergrads at Glasgow who demanded an even more advanced stats module](https://twitter.com/lam_bis/status/1066425317529653249) or at [UNSW where they have many options (R or Python)](https://twitter.com/djnavarro/status/1066821181003640834?s=19). Also don't forget, especially with things like coding and stats, those who are interested tend to begin teaching themselves more as they get more comfortable.
 
@@ -81,14 +81,14 @@ Assuming the reader is aware of what I think about GUIs, see [my infamous Matlab
 
 Often students tend to hate having to rote learn SPSS menus, after which anyway nothing seems to stick. I wonder why! Anyway, at end of the day: students *can* learn well without a GUI. For example, at Glasgow [they fell in love with markdown]. I learned how to do loads of things without a GUI as did loads of people, I'm not special. Rote learning has its uses when the thing being memorised is generalisable, very specific stats GUI menus are not, multiplication tables, for example, are.
 
+>**They just CANNOT learn to code. They just can't. Not everybody can learn to code.**
+
 <div class="float-right figure">
     <img class="image" src="{{ site.baseurl}}/img/posts/maddy_petrovich.jpg" />
   <div class="figure-caption">
     "Maddy Petrovich, 14, of Wellesley, Mass. first started learning how to use the programming language Scratch when she was 10 years old", see <a href="http://www.wbur.org/hereandnow/2012/12/26/computer-programming-kids">Computer Programming For Kids 8 And Up</a>.
   </div>  
 </div>
-
->**They just CANNOT learn to code. They just can't. Not everybody can learn to code.**
 
 [Coding is hard](https://twitter.com/richarddmorey/status/1066998607927304192). Yes. Teaching people anything is hard. Teachers are undervalued. Why are the slightly more to much more powerful than me so against teaching them to code? Are they worried they will be held accountable for teaching? Do they not want to teach because they might be exposed as frauds in terms of their low teaching skills? Maybe...
 
@@ -102,10 +102,11 @@ Everybody already knows the very basic concepts of coding pretty much as they ar
 
 Also, yeah, sure, some people can't learn anything but the most rudimentary English or maths. So what? Does that mean nobody should be taught these things because some people can't learn them? Of course not. The sooner we start [teaching kids to code, the better](https://www.theguardian.com/technology/2017/aug/20/two-year-olds-should-learn-to-code-says-computing-pioneer). I think everybody should be taught [to code in primary school and thankfully so do quite a few countries](https://www.euractiv.com/section/digital/infographic/infographic-coding-at-school-how-do-eu-countries-compare/).
 
-
 >**Teaching students to code is zero sum and that means removing other parts of the course.**
 
 Yes, and no — depends on what course! In my opinion, it's a price we should be willing to pay to give students useful transferable skills for which to get a job with. Knowing how to code is so vital to be a productive member of the workforce. We owe it to our students, both in a moral and a "they pay us" way, to equip them for the job market properly. Being able to code is a useful skill both to get a postdoc or to get any other job pretty much. It's also possible to teach them coding as a direct means to an end, as I mentioned: to design experiments, to run statistical analyses, to do computational modelling, etc. This by the way is exactly that the nay-sayers think is impossible/implausible even though both I and Danielle have taught and designed exactly these types of classes.
+
+>**Teaching students to code is really hard and nobody in my department knows how to teach them probably.**
 
 <div class="float-right figure">
     <img class="image" src="{{ site.baseurl}}/img/posts/margaret_hamilton.jpg" />
@@ -114,11 +115,7 @@ Yes, and no — depends on what course! In my opinion, it's a price we should be
   </div>  
 </div>
 
->**Teaching students to code is really hard and nobody in my department knows how to teach them probably.**
-
 Yup, it's hard. All teaching is hard. It [takes time and is going to require sacrifices](https://twitter.com/dalejbarr/status/1066397122310930432). It's a massively undervalued and underpaid profession ([again no coincidence it's undervalued and it's feminised generally](https://www.cairn-int.info/article-E_TGS_005_0091--is-the-feminization-of-a-profession-a.htm)). But you know what? We do it just fine at UCL. With a lecturer teaching them to code experiments in Python and Javascript ([Christos Bechlivanidis, check out his teaching section](https://www.ucl.ac.uk/pals/people/christos-bechlivanidis)). And they do it just fine at Glasgow, at Ediburgh, at UNSW, like I mentioned, where they teach them R for stats. Teaching will *never* be perfect, like anything in life — and always [those doing the teaching will learn stuff themselves as they teach](https://twitter.com/djnavarro/status/1066438723133333504).
-
-
 
 >**We can't expect clinical people to learn how to code.**
 
@@ -136,6 +133,7 @@ When I taught [a small class of undergraduates neural networks from scratch (no 
 
 From a pedagogical perspective it's not ideal to introduce scoping or other complex stuff straight away anyway. When I was in high school and during my separate computer science A-level, I recall scoping was not introduced until much later. This is a common pedagogical principle. You teach, for example, about 3 states of matter (solid, liquid, gas). You don't go "oh, yeah, there's also [Bose-Einstein condensate](https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate)".
 
+> **You can't teach them how to code during a stats class because some students will have a "handicap" if they have not coded before.**
 
 <div class="float-right figure">
     <img class="image" src="{{ site.baseurl}}/img/posts/olivia_poster.jpg" />
@@ -143,9 +141,6 @@ From a pedagogical perspective it's not ideal to introduce scoping or other comp
     Olivia from the before [pre-Dr] times at ICCM in 2012, photo by fellow coder and computational modeller, <a href="https://twitter.com/BArslan_CogSci">Burcu Arslan</a>.
   </div>  
 </div>
-
-
-> **You can't teach them how to code during a stats class because some students will have a "handicap" if they have not coded before.**
 
 Somebody will *always* have a "[handicap](https://twitter.com/EJWagenmakers/status/1066680953534328832)". That is life, sadly. Whether it is maths in your native language versus in English or just the new jargon for a sub-area of science. One always learn new English words in every course as the technical terms and expressions are often totally new. I would not have known what, e.g., [abscissa](https://en.wikipedia.org/wiki/Abscissa_and_ordinate) means in maths if I had not done maths in English before moving the UK. On the other hand, I do have an advantage over people who just speak English because I know all the Greek letters we use in maths and I have prima facie access to the meanings of scientific words made-up based on Greek, e.g., prosopagnosia.
 
