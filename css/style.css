@@ -831,9 +831,6 @@ object.image {
     /* margin: 1rem; */
   }
 
-  blockquote {
-    clear: both;
-  }
 }
 
 @media (min-width: 80.0rem) {
