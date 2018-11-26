@@ -763,6 +763,8 @@ figure {
   margin: 0;
 }
 
+
+
 th, td {
   border: 0;
   padding: 0;
@@ -827,6 +829,10 @@ object.image {
   .figure {
     max-width: 30rem;
     /* margin: 1rem; */
+  }
+
+  blockquote {
+    clear: both;
   }
 }
 
