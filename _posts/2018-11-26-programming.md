@@ -132,7 +132,7 @@ Firstly, of course, I'm nobody and you don't have to listen to me. But, also sec
 
 >**We can't teach them to code because scoping [or any other programming concept] is really hard and time-consuming to learn.**
 
-When I taught [a small class of undergraduates neural networks from scratch (no library, just for-loops)](http://localhost:4000/connectionism) we didn't do scoping, or indeed anything more than variables, conditionals, and loops pretty much, and they coped just fine. They had zero programming experience in Python and only 2 of 15 had coded before. They all got a first or a 2:1 (two highest grades in UK system), and not because I'm too nice.
+When I taught [a small class of undergraduates neural networks from scratch (no library, just for-loops)](http://neuroplausible.com/connectionism) we didn't do scoping, or indeed anything more than variables, conditionals, and loops pretty much, and they coped just fine. They had zero programming experience in Python and only 2 of 15 had coded before. They all got a first or a 2:1 (two highest grades in UK system), and not because I'm too nice.
 
 From a pedagogical perspective it's not ideal to introduce scoping or other complex stuff straight away anyway. When I was in high school and during my separate computer science A-level, I recall scoping was not introduced until much later. This is a common pedagogical principle. You teach, for example, about 3 states of matter (solid, liquid, gas). You don't go "oh, yeah, there's also [Bose-Einstein condensate](https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate)".
 
