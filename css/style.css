@@ -816,9 +816,8 @@ object.image {
   padding-top: 0.5rem;
   font-size: 1.3rem;
   text-align: justify;
-}
 
-.figure {}
+}
 
 @media (min-width: 40.0rem) {
   object.image {
@@ -827,7 +826,7 @@ object.image {
   }
   .figure {
     max-width: 30rem;
-    margin: 1rem;
+    /* margin: 1rem; */
   }
 }
 
@@ -840,6 +839,8 @@ object.image {
 
 .figure {
   max-width: 40rem;
+  margin: 1rem;
+
 }
 
 .tldr li {
