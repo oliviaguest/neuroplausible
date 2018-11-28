@@ -18,7 +18,7 @@ About two months ago my brother, who works in data science on social psychology 
 <div class="float-right figure">
   <img class="image" src="{{ site.baseurl}}{{ page.img.dir }}" />
   <div class="figure-caption">
-  "[that feeling when] your plant friends die cause you spend way too much time in virtual realities" by <a href="http://echarpes.tumblr.com/post/146520918413/tfw-your-plant-friends-die-cause-you-spend-way-too?fbclid=IwAR3UAzCDARg3u-RL6ebE00hIOMAOUIMJZ7tvB4geORiWCLXMQYM6sXkQfbU">écharpe</a>
+  "[That feeling when] your plant friends die cause you spend way too much time in virtual realities" by <a href="http://echarpes.tumblr.com/post/146520918413/tfw-your-plant-friends-die-cause-you-spend-way-too?fbclid=IwAR3UAzCDARg3u-RL6ebE00hIOMAOUIMJZ7tvB4geORiWCLXMQYM6sXkQfbU">écharpe</a>
   </div>  
 </div>
 
@@ -104,7 +104,7 @@ Also, yeah, sure, some people can't learn anything but the most rudimentary Engl
 
 >**Teaching students to code is zero sum and that means removing other parts of the course.**
 
-Yes, and no — depends on what course! In my opinion, it's a price we should be willing to pay to give students useful transferable skills for which to get a job with. Knowing how to code is so vital to be a productive member of the workforce. We owe it to our students, both in a moral and a "they pay us" way, to equip them for the job market properly. Being able to code is a useful skill both to get a postdoc or to get any other job pretty much. It's also possible to teach them coding as a direct means to an end, as I mentioned: to design experiments, to run statistical analyses, to do computational modelling, etc. This by the way is exactly that the nay-sayers think is impossible/implausible even though both I and Danielle have taught and designed exactly these types of classes.
+Yes, and no — depends on what course! In my opinion, it's a price we should be willing to pay to give students useful transferable skills for which to get a job with. Knowing how to code is so vital to be a productive member of the workforce. We owe it to our students, both in a moral and a "they pay us" way, to equip them for the job market properly. Being able to code is a useful skill both to get a postdoc or to get any other job pretty much. It's also possible to teach them coding as a direct means to an end, as I mentioned: to design experiments, to run statistical analyses, to do computational modelling, etc. This by the way is exactly what the nay-sayers think is impossible/implausible even though both I and Danielle have taught and designed exactly these types of classes.
 
 >**Teaching students to code is really hard and nobody in my department knows how to teach them probably.**
 
