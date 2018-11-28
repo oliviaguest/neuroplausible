@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Why women in psychology can't program"
+title: "Why Women in Psychology Can't Program"
 tldr:
   repos:
   pubs:
