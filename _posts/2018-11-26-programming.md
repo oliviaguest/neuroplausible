@@ -153,5 +153,5 @@ Anyway, especially to the undergrads and other students who spoke up: thanks all
 
 ## Related Reading
 
-* [When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
-* [A Brief History of Women in Computing](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+* [When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding), NPR
+* [A Brief History of Women in Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306), Faruk Ateş
