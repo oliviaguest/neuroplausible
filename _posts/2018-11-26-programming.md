@@ -150,3 +150,8 @@ To end, I just want to say that I really appreciate the massive unwieldy thread 
 https://twitter.com/djnavarro/status/1066520644240629760?s=19). I guess that is why this post needs to be written, the field has issues that need to be addressed (as does society in general).
 
 Anyway, especially to the undergrads and other students who spoke up: thanks all for the feedback both before in the monster thread and [after](https://twitter.com/o_guest/status/1067079340507217920)! This idea for a post has been in my mind for a few months now, so I am glad to have been given an extra boost of inspiration to write it all out.
+
+## Related Reading
+
+* [When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+* [A Brief History of Women in Computing](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
