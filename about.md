@@ -9,7 +9,7 @@ title: About
     <img src="{{ site.baseurl }}/img/C3qqoANXUAAnxP_.jpg" />
 </div>
 
-Hi, I am [Olivia Guest](http://oliviaguest.com). I am a cognitive computational neuroscientist and this blog is about my research.
+Hi, I am [Olivia Guest](http://oliviaguest.com). I am a cognitive computational neuroscientist and this blog is about my research and opinions about the broader field(s) I am in.
 To learn more about me and my work, visit [my website](http://oliviaguest.com), [follow me](http://twitter.com/o_guest) on Twitter, [fork me](http://github.com/oliviaguest) on GitHub, and/or read [this interview](https://www.ucl.ac.uk/pals/research/experimental-psychology/blog/women-experimental-psychology-olivia-guest/).
 
 
