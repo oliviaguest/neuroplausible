@@ -152,6 +152,6 @@ https://twitter.com/djnavarro/status/1066520644240629760?s=19). I guess that is 
 Anyway, especially to the undergrads and other students who spoke up: thanks all for the feedback both before in the monster thread and [after](https://twitter.com/o_guest/status/1067079340507217920)! This idea for a post has been in my mind for a few months now, so I am glad to have been given an extra boost of inspiration to write it all out.
 
 ## Related Reading
-
+* [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf), Paul Lockhart
 * [When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding), NPR
 * [A Brief History of Women in Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306), Faruk Ateş
