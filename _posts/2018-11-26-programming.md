@@ -18,7 +18,7 @@ About two months ago my brother, who works in data science on social psychology 
 <div class="float-right figure">
   <img class="image" src="{{ site.baseurl}}{{ page.img.dir }}" />
   <div class="figure-caption">
-  "[That feeling when] your plant friends die cause you spend way too much time in virtual realities" by <a href="http://echarpes.tumblr.com/post/146520918413/tfw-your-plant-friends-die-cause-you-spend-way-too?fbclid=IwAR3UAzCDARg3u-RL6ebE00hIOMAOUIMJZ7tvB4geORiWCLXMQYM6sXkQfbU">écharpe</a>
+  "[That feeling when] your plant friends die cause you spend way too much time in virtual realities" by <a href="http://echarpes.tumblr.com/post/146520918413/tfw-your-plant-friends-die-cause-you-spend-way-too">écharpe</a>
   </div>  
 </div>
 
