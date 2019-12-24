@@ -59,6 +59,7 @@ img {
 }
 
 
+
 /* Footer
 // –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -955,4 +956,8 @@ a.navigation-link {
 
 li p {
   display: inline;
+}
+
+h2 a:hover {
+  color: black ;
 }
