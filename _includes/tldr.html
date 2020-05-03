@@ -1,5 +1,4 @@
-{% assign articles = site.articles | sort: 'year' %}
-
+{% assign articles = site.data.articles | sort: 'year' %}
 
 <div class = "tldr" id ="tldr">
 
@@ -14,24 +13,28 @@
     </li>
     {% endif %}
     <li>
-      {% if include.tldr.pubs %}
+      {% if include.tldr.pub %}
+          <b>Article:</b><ul class = "articles">
+            {% for article in articles %}
+              {% if article.id == include.tldr.pub %}
+                <li class="articles">
+                {{ article.authors }} ({{ article.year }}).
+                {% if article.doi %}
+                  <a href="//dx.doi.org/{{ article.doi }}">{{ article.title }}</a>.
+                {% elsif article.pdf %}
+                  <a href="{{ article.pdf }}">{{ article.title }}</a>.
+                {% else %}
+                  {{ article.title }}.
+                {% endif %}
 
-          <b><i>Journal article:</i></b><ul class = "articles">{% for article in articles %}
-          <li class="articles">
-          {{ article.authors }} ({{ article.year }}).
-          {% if article.doi %}
-            <a href="//dx.doi.org/{{ article.doi }}">{{ article.title }}</a>.
-          {% elsif article.pdf %}
-            <a href="{{ article.pdf }}">{{ article.title }}</a>.
-          {% else %}
-            {{ article.title }}.
-          {% endif %}
-          {% if article.journal %}<i>{{ article.journal }}</i>. {% endif %}{% if article.doi %}doi: <a href="//dx.doi.org/{{ article.doi }}">{{ article.doi }}</a>. {% endif %}
-          {% if article.pdf %}
-          <a class="fa" href="{{ article.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-          {% endif %}
-          {% endfor %}
-          {% endif %}
+                {% if article.journal %}
+                <i>{{ article.journal }}</i>. {% endif %}
+                {% if article.doi %}doi: <a href="//dx.doi.org/{{ article.doi }}">{{ article.doi }}</a>. {% endif %}
+                {% if article.pdf %}
+                <a class="fa" href="{{ article.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>{% endif %}
+              {% endif %}
+            {% endfor %}
+    {% endif %}
 
     </li>
 

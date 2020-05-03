@@ -95,6 +95,13 @@ img {
   text-align: center;
 }
 
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+ }
+
 .header .title {
   font-family: 'Superscript', 'Helvetica Neue', Arial, sans-serif;
   -webkit-font-smoothing: none;
@@ -589,6 +596,14 @@ a {
   border-bottom: 1px dotted #000;
 }
 
+.tldr a.fa {
+    border-bottom: 0px !important;
+}
+
+.tldr a:hover.fa {
+    border-bottom: 0px !important;
+}
+
 .container p a:hover, .tldr a:hover, .figure-caption a:hover, .list a:hover, .container li a:hover {
   border-bottom: 1px solid #000;
 }
@@ -939,6 +954,18 @@ li.articles:first-child {
   .float-right {
     padding-left: 1rem;
   }
+}
+
+
+@media (max-width: 40.0rem) {
+
+.figure {
+  float: none !important;
+  margin: auto;
+}
+.excerpt {
+  padding-top: 1rem;
+}
 }
 
 li.list {

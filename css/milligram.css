@@ -6,14 +6,20 @@
  * Licensed under the MIT license
 */
 
+/* @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;400&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,400;1,200;1,400&display=swap');
+
+
 html {
     box-sizing: border-box;
     font-size: 62.5%
 }
 
+
+
 body {
     color: #606c76;
-    font-family: "Lato", "Open Sans", "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.6em;
     font-weight: 300;
     letter-spacing: .01em;

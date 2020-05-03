@@ -2,8 +2,6 @@
 published: true
 title: "Why Women in Psychology Can't Program"
 tldr:
-  repos:
-  pubs:
   info: 'They could if given the chance, of course! Sadly basic coding skills are being gatekept due to elitism and sexism from the teaching side with arguments along the lines of: "they just cannot cope with learning how to code".'
 img:
   svg: false

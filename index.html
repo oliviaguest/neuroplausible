@@ -38,12 +38,11 @@ layout: base
                      {% else %}
                      <div class="float-right figure">
                          <img class="image" src="{{ site.baseurl}}{{ post.img.dir }}" />
-                       </object>
                      </div>
                      {% endif %}
                      {% endif %}
 <!--                   {{ post.content  | truncatewords:75 }}  -->
-                     {{ post.excerpt | strip_html }}
+                     <p class="excerpt">{{ post.excerpt | strip_html }}</p>
 
               </div>
               <div class= "entry-footer">

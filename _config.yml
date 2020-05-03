@@ -1,5 +1,5 @@
 name: neuroplausible
-description: I am a cognitive computational neuroscientist and this blog is about my research. 
+description: I am a cognitive computational neuroscientist and this blog is about my research.
 twitter: o_guest
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-81285566-1
@@ -26,11 +26,11 @@ baseurl: ""
 
 markdown: kramdown
 highlighter: rouge
-  
+
 permalink: /:title/
 
 
-# Permalink style - allows us to add edit buttons 
+# Permalink style - allows us to add edit buttons
 permalink: /:categories/:year/:month/:day/:title
 
 #to be able to use {{ page.is_post }} to check whether the page is post.
@@ -48,7 +48,7 @@ sass:
   style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins_dir:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
@@ -58,6 +58,3 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
-    
-collections:
-    - articles
